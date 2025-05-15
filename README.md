@@ -6,8 +6,7 @@
 
 <div align="center">
   
-  [![GitHub](https://img.shields.io/badge/GitHub-JamieWalshATU-2986CC?style=for-the-badge&logo=github)](https://github.com/JamieWalshATU)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-JamieWalsh-2986CC?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/jamiewalsh)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-JamieWalsh-2986CC?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/jamiewalsh-)
   
 </div>
 
